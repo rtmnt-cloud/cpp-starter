@@ -10,4 +10,4 @@ A minimal PowerShell script that instantly sets up a clean C++ project folder wi
 ## ⚙️ Usage
 Run the script from PowerShell:
 ```powershell
-.\newcpp.ps1 MyProject
+.\create_project.ps1 MyProject
